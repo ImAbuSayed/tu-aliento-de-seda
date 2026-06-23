@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aliento-de-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tu aliento de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-de-seda/) |
+| **Get License** | [License this song: Tu aliento de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-de-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu aliento de seda rozando mi cuello a deshoras
+> Me tienes adicto, perdiendo la cuenta del tiempo
+> Con un solo beso mi alma completa devoras
+> Tú eres el fuego que enciende mi piel en el viento
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
