@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aliento-de-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tu aliento de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-de-seda/) |
+| **Get License** | [Obtain a Music License for Tu aliento de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-de-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0ae2a48e538559ac8103a6cdbe70348e8b2fcac54d6d8e86ab0644d59bc64576` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
